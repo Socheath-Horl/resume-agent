@@ -1,0 +1,10 @@
+.env
+.git
+.gitignore
+*.md
+__pycache__
+*.pyc
+.DS_Store
+chroma_db/
+data/resumes/*
+!data/resumes/.gitkeep
